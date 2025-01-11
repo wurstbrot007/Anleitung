@@ -2,7 +2,7 @@ import streamlit as st
 import openai
 
 # OpenAI API-Schlüssel
-openai.api_key = "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"
+openai.api_key = "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"
 
 st.title("Einfacher Frage-Antwort-Assistent")
 
